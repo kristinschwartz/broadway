@@ -8,6 +8,16 @@ h1 {
   font-size: 70px;
 }
 
+h2 {
+  font-size: 32px;
+
+}
+
+h3 {
+  font-size: 23px;
+
+}
+
 ul {
   list-style: none;
 
@@ -16,9 +26,31 @@ ul {
 a {
   color: white;
   font-size: 18px;
-  
+
+}
+
+p {
+  font-size: 14px;
+
+}
+
+.new-york {
+  background-image: url("../images/flatiron-building.png");
+  color: white;
 }
 
 .header {
   background-image: url("../images/flatiron-building.png");
+}
+
+#copyright{
+  font-size: 11px;
+
+}
+
+.footer {
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+
 }
